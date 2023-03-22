@@ -8,6 +8,4 @@
 /resources/booking_model.py - объекты pydantic - модели для поверки данных запроса и ответа
 /tests/test_booking.py - тесты
 
-В PyCharm запусть на выполнение test_booking.py с помощью кнопки Run
-
 Не проходят тесты на API-методы PUT и DELETE, т.к. эти методы, видимо, запрещены, получаем статус 403 - Forbidden. Проверено в Postman, там то же самое.
