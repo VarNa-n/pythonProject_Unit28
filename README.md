@@ -7,3 +7,5 @@
 /resources/prepary_data.py - данные для тестов
 /resources/booking_model.py - объекты pydantic - модели для поверки данных запроса и ответа
 /tests/test_booking.py - тесты
+
+В PyCharm запусть на выполнение test_booking.py с помощью кнопки Run
